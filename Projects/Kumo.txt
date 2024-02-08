@@ -1,0 +1,7 @@
+total 17
+drwxr-xr-x 1 kdher 197609  0 Feb  5 15:49 ./
+drwxr-xr-x 1 kdher 197609  0 Feb  5 11:53 ../
+-rw-r--r-- 1 kdher 197609  0 Feb  5 15:49 Kumo.txt
+drwxr-xr-x 1 kdher 197609  0 Feb  3 10:06 Ohaio sekai/
+-rw-r--r-- 1 kdher 197609 13 Feb  5 15:48 chat.txt
+-rw-r--r-- 1 kdher 197609  0 Feb  5 15:49 dir.txt
